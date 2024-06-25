@@ -5,7 +5,7 @@ from langchain import HuggingFaceHub
 from model import SummarizeRequest
 
 # Creating api key variable to get access to Hugging Face functions
-HUGGINGFACEHUB_API_TOKEN = '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'
+HUGGINGFACEHUB_API_TOKEN = 'your_api_token'
 os.environ['API_TOKEN'] = HUGGINGFACEHUB_API_TOKEN
 
 app = FastAPI()

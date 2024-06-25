@@ -14,8 +14,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/text-summarization-api.git
-    cd text-summarization-api
+    git clone https://github.com/darkimonus/test_task.git
+    cd test_task
     ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 4. **Set up environment variable**:
 
     ```sh
-    export API_TOKEN=['your_api_token']  # On Windows use `set API_TOKEN=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`
+    export API_TOKEN=['your_api_token']  # On Windows use `set API_TOKEN=your_api_token`
     ```
 
 ## Running the Application
